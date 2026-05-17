@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 > ⚠️ **Class Project — Prototype Stage**  
-> โปรเจคนี้เป็นส่วนหนึ่งของรายวิชา AI Application Development  
+> โปรเจคนี้เป็นส่วนหนึ่งของรายวิชา ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE 
 > อยู่ในระดับ Prototype ยังไม่พร้อมสำหรับการใช้งานจริงในเชิงพาณิชย์  
 > แต่สามารถนำ Architecture และ Codebase นี้ไปพัฒนาต่อได้
 
@@ -190,7 +190,7 @@ Prototype (ปัจจุบัน)
 
 ## 👨‍💻 ผู้พัฒนา
 
-โปรเจคนี้จัดทำขึ้นเป็นส่วนหนึ่งของรายวิชา **AI Application Development**
+โปรเจคนี้จัดทำขึ้นเป็นส่วนหนึ่งของรายวิชา **ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE**
 
 > *"จากไอเดียง่ายๆ ว่า นักวิ่งไม่รู้จะวิ่งเส้นทางไหน สู่ระบบ AI Agent ที่วางแผนเส้นทางวงกลมได้จริงในกรุงเทพฯ"*
 
